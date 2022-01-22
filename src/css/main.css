@@ -1,0 +1,4 @@
+.form-control, .form-select{
+    width: 50%;
+    display: inline-flex;
+}
